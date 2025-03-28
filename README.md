@@ -1,4 +1,3 @@
-# CodSoft_Task_04
 # SALES PREDICTION USING PYTHON
  Sales prediction involves forecasting the amount of a product that
  customers will purchase, taking into account various factors such as
